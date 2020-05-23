@@ -19,15 +19,32 @@
 
 ## Usage
 
-### export mesh sequence
+### to export .obj sequence
 * select output files
 * select object to export
-* press proper expo 
+* press _Export Mesh Sequence_
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+### to export Point Cache  
+* select output .pc2 and .obj files
+* select object to export
+* press _Export Point Cache_
 
-Please make sure to update tests as appropriate.
+## Which export type should be used?
+
+* If animated object are changes its topology or vertex count during animation use **Mesh Sequence**  
+    * animation of construction
+    * demolition
+    * shatter
+    * fluid simulations
+    * cross sections
+
+* If animated object *not* changes its topology or vertex count during animation use **Mesh Sequence** or **Point Cache**. 
+    * cloth simulations 
+    * deformations 
+    * skinned mesh animations 
+ 
+
+ 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
