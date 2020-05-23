@@ -42,7 +42,7 @@ rollout VertexAnimationExporter "Vertex Animation exporter" width:460 height:520
   
     label lbl "Designed for use with"  across:2   offset:[34,0]; 
     hyperLink  hl "Vertex Animation Tools" address: "http://u3d.as/1iJP" align:#center  color: (color 88 144 225) hoverColor:  (color 88 144 225) across:2  offset:[-66,0]; 
-    hyperLink  hl1 "Polyflow Studio 2019" address: "http://polyflow.studio" align:#center  color: (color 88 144 225) hoverColor: (color 88 144 225);
+    hyperLink  hl1 "polyflow.xyz 2020" address: "http://polyflow.xyz" align:#center  color: (color 88 144 225) hoverColor: (color 88 144 225);
      
    local outputPCFileName = undefined;   
    local outputObjFileName = undefined;      
