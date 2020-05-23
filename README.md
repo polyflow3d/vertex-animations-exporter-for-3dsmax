@@ -17,6 +17,10 @@
 
 </details>
 
+## Compatibility
+* 3ds MAX 2010 or newer
+
+
 ## Usage
 
 ### to export .obj sequence
