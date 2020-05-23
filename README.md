@@ -1,7 +1,12 @@
  
 # Vertex Animations Exporter for 3DS MAX
 
-Foobar is a Python library for dealing with word pluralization.
+ an scripted (MaxScript) exporter of 
+ * .obj files sequences 
+ * Point Caches (.pc2) 
+ 
+
+ designed for  [Vertex Animation Tools](http://u3d.as/1iJP)  
 
 ## Installation
  
