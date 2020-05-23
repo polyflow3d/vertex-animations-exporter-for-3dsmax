@@ -4,19 +4,10 @@
 Foobar is a Python library for dealing with word pluralization.
 
 ## Installation
-
-* run maxscript file vertex-animations-exporter-3dsmax.ms
-
-
-
  
- 
- 
+ <details style=" background-color:white; padding-left: 10px; margin-left: 10px; margin-right: 60px;" >
+  <summary>  run maxscript file <i>vertex-animations-exporter-3dsmax.ms</i>  </summary>
 
-
- <details style=" background-color:AntiqueWhite; padding-left: 10px; margin-left: 40px; margin-right: 60px;" >
-  <summary>  example  </summary>
-  
  ![alt text](https://polyflow.xyz/content/vertex-animation-tools/vertex-animations-exporter-3dsmax/vertex-animations-exporter-3dsmax-runscript-gif.gif)
 
 </details>
